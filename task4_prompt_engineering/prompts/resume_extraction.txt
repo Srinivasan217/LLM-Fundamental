@@ -1,0 +1,4 @@
+Extract the requested fields from the resume paragraph. Do not infer missing information. Use null for unknown scalar values and [] for unknown skills. Return one JSON object with exactly these keys: name, email, experience_years, skills, education.
+
+Resume paragraph:
+{text}

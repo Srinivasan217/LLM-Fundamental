@@ -1,0 +1,3 @@
+Classify the support ticket into one category: billing, technical, account, or shipping.
+Ticket: {text}
+Category:

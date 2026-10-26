@@ -1,0 +1,6 @@
+resume_id,name,skills,years_experience,valid,matches_expected
+resume-001,Jordan Lee,Python;SQL;Tableau,5,True,True
+resume-002,Samira Patel,JavaScript;React;PostgreSQL,3,True,True
+resume-003,Alex Morgan,Python;SQL;Tableau,7,True,True
+resume-004,Priya Kumar,JavaScript;React,2,True,True
+resume-005,Daniel Chen,SQL;PostgreSQL,4,True,True

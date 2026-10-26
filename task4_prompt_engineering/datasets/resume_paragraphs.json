@@ -1,0 +1,22 @@
+[
+  {
+    "id": "resume-001",
+    "text": "Jordan Lee is a data analyst with five years of experience. Jordan has used Python, SQL, and Tableau, and holds a Bachelor of Science in Statistics from North Valley University. Contact: jordan.lee@example.com."
+  },
+  {
+    "id": "resume-002",
+    "text": "Samira Patel, software engineer, has three years of experience building web applications with JavaScript, React, and PostgreSQL. She earned a Bachelor of Engineering at Lakeside Institute. Email: samira.patel@example.com."
+  },
+   {
+    "id": "resume-003",
+    "text": "Alex Morgan is a data scientist with seven years of experience. Skills include Python, SQL, and Tableau. Alex holds a Master of Science in Data Science. Email: alex.morgan@example.com."
+  },
+  {
+    "id": "resume-004",
+    "text": "Priya Kumar is a frontend developer with two years of experience. Her skills include JavaScript and React. She holds a Bachelor of Computer Applications. Email: priya.kumar@example.com."
+  },
+  {
+    "id": "resume-005",
+    "text": "Daniel Chen is a database developer with four years of experience. He works with SQL and PostgreSQL and holds a Bachelor of Technology. Email: daniel.chen@example.com."
+  }
+]

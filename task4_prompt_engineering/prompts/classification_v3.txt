@@ -1,0 +1,19 @@
+
+Task: classify each support ticket into exactly one category.
+Allowed categories: billing, technical, account.
+Return only the lowercase category.
+
+Examples:
+Ticket: I was charged twice for my subscription.
+Category: billing
+
+Ticket: The mobile app crashes when I upload a photo.
+Category: technical
+
+Ticket: I need to change the email address on my account.
+Category: account
+
+Now classify this ticket:
+Ticket: {text}
+
+Category:

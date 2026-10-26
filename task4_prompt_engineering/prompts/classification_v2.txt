@@ -1,0 +1,5 @@
+You are a support-ticket triage assistant. Choose exactly one label from: billing, technical, account, shipping. Use the primary customer issue, not incidental wording. Return only the label.
+
+Ticket: {text}
+
+Label:

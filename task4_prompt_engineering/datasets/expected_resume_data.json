@@ -1,0 +1,33 @@
+
+[
+  {
+    "resume_id": "resume-001",
+    "name": "Jordan Lee",
+    "skills": ["Python", "SQL", "Tableau"],
+    "years_experience": 5
+  },
+  {
+    "resume_id": "resume-002",
+    "name": "Samira Patel",
+    "skills": ["JavaScript", "React", "PostgreSQL"],
+    "years_experience": 3
+  },
+  {
+    "resume_id": "resume-003",
+    "name": "Alex Morgan",
+    "skills": ["Python", "SQL", "Tableau"],
+    "years_experience": 7
+  },
+  {
+    "resume_id": "resume-004",
+    "name": "Priya Kumar",
+    "skills": ["JavaScript", "React"],
+    "years_experience": 2
+  },
+  {
+    "resume_id": "resume-005",
+    "name": "Daniel Chen",
+    "skills": ["SQL", "PostgreSQL"],
+    "years_experience": 4
+  }
+]

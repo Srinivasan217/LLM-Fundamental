@@ -1,0 +1,18 @@
+
+[
+  {"id":"ticket-001","text":"I was charged twice for my monthly subscription.","label":"billing","priority":"high"},
+  {"id":"ticket-002","text":"The mobile app crashes when I upload a photo.","label":"technical","priority":"high"},
+  {"id":"ticket-003","text":"How can I change the email address on my account?","label":"account","priority":"low"},
+  {"id":"ticket-004","text":"I was charged after cancelling my subscription.","label":"billing","priority":"high"},
+  {"id":"ticket-005","text":"The website displays an error when I log in.","label":"technical","priority":"medium"},
+  {"id":"ticket-006","text":"Please update the phone number linked to my account.","label":"account","priority":"low"},
+  {"id":"ticket-007","text":"My invoice shows the wrong subscription amount.","label":"billing","priority":"medium"},
+  {"id":"ticket-008","text":"The application freezes every time I open settings.","label":"technical","priority":"high"},
+  {"id":"ticket-009","text":"I forgot my password and cannot access my account.","label":"account","priority":"high"},
+  {"id":"ticket-010","text":"Can you explain the extra fee on my latest bill?","label":"billing","priority":"medium"},
+  {"id":"ticket-011","text":"Notifications stopped working after the latest update.","label":"technical","priority":"medium"},
+  {"id":"ticket-012","text":"I want to change my account username.","label":"account","priority":"low"},
+  {"id":"ticket-013","text":"Please refund the duplicate payment on my card.","label":"billing","priority":"high"},
+  {"id":"ticket-014","text":"The app takes too long to load and then times out.","label":"technical","priority":"medium"},
+  {"id":"ticket-015","text":"How do I deactivate my account permanently?","label":"account","priority":"low"}
+]

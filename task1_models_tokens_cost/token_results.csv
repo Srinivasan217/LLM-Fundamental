@@ -1,0 +1,6 @@
+Text Type,Words,Tokens,Words per Token
+Sentence,6,7,0.857
+Paragraph,19,23,0.826
+Page,377,473,0.797
+JSON,2,20,0.1
+Tamil,5,72,0.069

@@ -1,0 +1,11 @@
+question,prompt_condition,answer,expected_answer,correct,reasoning_summary
+A team has 18 tickets. It resolves 7 in the morning and 5 in the afternoon. How many remain?,Without step-by-step instruction,6,6,True,Direct answer only.
+A team has 18 tickets. It resolves 7 in the morning and 5 in the afternoon. How many remain?,With step-by-step instruction,6,6,True,Calculate using subtract; the result is 6.
+A shop has 24 notebooks and buys 13 more. How many notebooks are there?,Without step-by-step instruction,37,37,True,Direct answer only.
+A shop has 24 notebooks and buys 13 more. How many notebooks are there?,With step-by-step instruction,37,37,True,Calculate using add; the result is 37.
+Five boxes contain 6 items each. How many items are there?,Without step-by-step instruction,30,30,True,Direct answer only.
+Five boxes contain 6 items each. How many items are there?,With step-by-step instruction,30,30,True,Calculate using multiply; the result is 30.
+A bill of 56 dollars is shared equally among 8 people. How much does each pay?,Without step-by-step instruction,7,7,True,Direct answer only.
+A bill of 56 dollars is shared equally among 8 people. How much does each pay?,With step-by-step instruction,7,7,True,Calculate using divide; the result is 7.
+"Maya has 40 points, earns 15 more, then spends 12. How many points remain?",Without step-by-step instruction,43,43,True,Direct answer only.
+"Maya has 40 points, earns 15 more, then spends 12. How many points remain?",With step-by-step instruction,43,43,True,Calculate using add_subtract; the result is 43.
