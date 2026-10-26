@@ -12,4 +12,4 @@ It also examines limitations such as hallucinations, bias, context-window constr
 
 **Testing status:** The live Gemini API tests are pending because API requests returned HTTP 429 (Too Many Requests).
 
-See [`task2_capabilities_limitations/capabilities_report.md`](task2_capabilities_limitations/capabilities_report.md) for the detailed report.
+See [`task2_capabilities_limitations/capabilities_report.md`](task2_capabilities_limitations/README.md) for the detailed report.
